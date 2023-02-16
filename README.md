@@ -4,7 +4,7 @@
 <p>
     Esse desafio consistem em fazer a lâmpada ligar e desligar utilizando javascript, e quando clicamos varias veze em cima da lâmpada ela quebra
 </p>
-<img src="video/ezgif.com-video-to-gif.gif" alt="lampada">
+<img src="video/lampada.gif" alt="lampada">
 
 ## Tecnologia utilizada
 
